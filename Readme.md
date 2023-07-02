@@ -70,12 +70,12 @@ npm run serve
 
 首页
 
-![]()
+![](https://github.com/geeeeeeeek/python_pet/blob/master/server/upload/img/a.png)
 
 
 后台页面
 
-![]()
+![](https://github.com/geeeeeeeek/python_pet/blob/master/server/upload/img/b.png)
 
 
 
